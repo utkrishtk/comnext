@@ -4,7 +4,7 @@
     <persistence-units>
       <persistence-unit name="Default">
         <packages>
-          <package value="org.utkrisht.ecom" />
+          <package value="org.utkrisht.product" />
         </packages>
       </persistence-unit>
     </persistence-units>
